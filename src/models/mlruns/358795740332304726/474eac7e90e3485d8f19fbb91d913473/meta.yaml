@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/358795740332304726/474eac7e90e3485d8f19fbb91d913473/artifacts
+end_time: 1732140926574
+entry_point_name: ''
+experiment_id: '358795740332304726'
+lifecycle_stage: active
+run_id: 474eac7e90e3485d8f19fbb91d913473
+run_name: mercurial-ray-694
+run_uuid: 474eac7e90e3485d8f19fbb91d913473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732140882776
+status: 3
+tags: []
+user_id: marqsleal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/4fb3971207b04aff99c13571c409bd95/artifacts
+end_time: 1732142195543
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: 4fb3971207b04aff99c13571c409bd95
+run_name: abundant-boar-207
+run_uuid: 4fb3971207b04aff99c13571c409bd95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732142146573
+status: 3
+tags: []
+user_id: marqsleal

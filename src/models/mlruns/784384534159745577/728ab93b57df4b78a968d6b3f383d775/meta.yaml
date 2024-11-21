@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/728ab93b57df4b78a968d6b3f383d775/artifacts
+end_time: 1732139434981
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: 728ab93b57df4b78a968d6b3f383d775
+run_name: skillful-skink-167
+run_uuid: 728ab93b57df4b78a968d6b3f383d775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732139386345
+status: 3
+tags: []
+user_id: marqsleal

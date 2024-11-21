@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/358795740332304726/7d9ed84071a14e7c936f985ac752b484/artifacts
+end_time: 1732143121644
+entry_point_name: ''
+experiment_id: '358795740332304726'
+lifecycle_stage: active
+run_id: 7d9ed84071a14e7c936f985ac752b484
+run_name: tasteful-foal-196
+run_uuid: 7d9ed84071a14e7c936f985ac752b484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732143079871
+status: 3
+tags: []
+user_id: marqsleal

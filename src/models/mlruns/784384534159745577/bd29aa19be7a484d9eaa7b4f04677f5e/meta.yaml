@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/bd29aa19be7a484d9eaa7b4f04677f5e/artifacts
+end_time: 1732142146052
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: bd29aa19be7a484d9eaa7b4f04677f5e
+run_name: chill-gnat-273
+run_uuid: bd29aa19be7a484d9eaa7b4f04677f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732142114447
+status: 3
+tags: []
+user_id: marqsleal

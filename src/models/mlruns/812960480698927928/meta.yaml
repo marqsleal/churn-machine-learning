@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/812960480698927928
+creation_time: 1732138248403
+experiment_id: '812960480698927928'
+last_update_time: 1732138248403
+lifecycle_stage: active
+name: Modelos telecom_customer_churn

@@ -1,0 +1,1 @@
+{'n_estimators': [10, 50, 100], 'learning_rate': [0.01, 0.1, 0.2], 'max_depth': [10, 20, 30]}

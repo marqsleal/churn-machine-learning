@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/358795740332304726/8264cb6bda384df791416e69c4fd368d/artifacts
+end_time: 1732143121644
+entry_point_name: ''
+experiment_id: '358795740332304726'
+lifecycle_stage: active
+run_id: 8264cb6bda384df791416e69c4fd368d
+run_name: capable-toad-712
+run_uuid: 8264cb6bda384df791416e69c4fd368d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732143079871
+status: 3
+tags: []
+user_id: marqsleal

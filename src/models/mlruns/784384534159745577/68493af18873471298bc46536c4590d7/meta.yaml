@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/68493af18873471298bc46536c4590d7/artifacts
+end_time: 1732142195543
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: 68493af18873471298bc46536c4590d7
+run_name: serious-koi-294
+run_uuid: 68493af18873471298bc46536c4590d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732142146573
+status: 3
+tags: []
+user_id: marqsleal

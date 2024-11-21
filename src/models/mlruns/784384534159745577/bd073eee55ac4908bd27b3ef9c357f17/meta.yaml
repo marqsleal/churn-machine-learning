@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/bd073eee55ac4908bd27b3ef9c357f17/artifacts
+end_time: 1732142146052
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: bd073eee55ac4908bd27b3ef9c357f17
+run_name: bouncy-fowl-282
+run_uuid: bd073eee55ac4908bd27b3ef9c357f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732142114447
+status: 3
+tags: []
+user_id: marqsleal

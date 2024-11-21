@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/79fe51a84a00434aaf9efb44eaac490e/artifacts
+end_time: 1732143057215
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: 79fe51a84a00434aaf9efb44eaac490e
+run_name: BayesSearchCVRandomForestClassifier
+run_uuid: 79fe51a84a00434aaf9efb44eaac490e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732142195996
+status: 3
+tags: []
+user_id: marqsleal

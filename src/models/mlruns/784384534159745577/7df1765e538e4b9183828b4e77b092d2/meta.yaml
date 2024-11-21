@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/7df1765e538e4b9183828b4e77b092d2/artifacts
+end_time: 1732139385643
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: 7df1765e538e4b9183828b4e77b092d2
+run_name: persistent-shrew-406
+run_uuid: 7df1765e538e4b9183828b4e77b092d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732139347096
+status: 3
+tags: []
+user_id: marqsleal

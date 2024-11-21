@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/7087894077154814817436b199fb8f82/artifacts
+end_time: 1732139434981
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: 7087894077154814817436b199fb8f82
+run_name: industrious-asp-895
+run_uuid: 7087894077154814817436b199fb8f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732139386345
+status: 3
+tags: []
+user_id: marqsleal

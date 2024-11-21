@@ -1,0 +1,33 @@
+digest: e302b162
+name: dataset
+profile: '{"num_rows": 4930, "num_elements": 167620}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "Gender", "required": true},
+  {"type": "long", "name": "Age", "required": true}, {"type": "string", "name": "Married",
+  "required": true}, {"type": "long", "name": "Number of Dependents", "required":
+  true}, {"type": "string", "name": "City", "required": true}, {"type": "long", "name":
+  "Zip Code", "required": true}, {"type": "double", "name": "Latitude", "required":
+  true}, {"type": "double", "name": "Longitude", "required": true}, {"type": "long",
+  "name": "Number of Referrals", "required": true}, {"type": "long", "name": "Tenure
+  in Months", "required": true}, {"type": "string", "name": "Offer", "required": false},
+  {"type": "string", "name": "Phone Service", "required": true}, {"type": "double",
+  "name": "Avg Monthly Long Distance Charges", "required": false}, {"type": "string",
+  "name": "Multiple Lines", "required": false}, {"type": "string", "name": "Internet
+  Service", "required": true}, {"type": "string", "name": "Internet Type", "required":
+  false}, {"type": "double", "name": "Avg Monthly GB Download", "required": false},
+  {"type": "string", "name": "Online Security", "required": false}, {"type": "string",
+  "name": "Online Backup", "required": false}, {"type": "string", "name": "Device
+  Protection Plan", "required": false}, {"type": "string", "name": "Premium Tech Support",
+  "required": false}, {"type": "string", "name": "Streaming TV", "required": false},
+  {"type": "string", "name": "Streaming Movies", "required": false}, {"type": "string",
+  "name": "Streaming Music", "required": false}, {"type": "string", "name": "Unlimited
+  Data", "required": false}, {"type": "string", "name": "Contract", "required": true},
+  {"type": "string", "name": "Paperless Billing", "required": true}, {"type": "string",
+  "name": "Payment Method", "required": true}, {"type": "double", "name": "Monthly
+  Charge", "required": true}, {"type": "double", "name": "Total Charges", "required":
+  true}, {"type": "double", "name": "Total Refunds", "required": true}, {"type": "long",
+  "name": "Total Extra Data Charges", "required": true}, {"type": "double", "name":
+  "Total Long Distance Charges", "required": true}, {"type": "double", "name": "Total
+  Revenue", "required": true}]}'
+source: '{"tags": {"mlflow.user": "marqsleal", "mlflow.source.name": "/home/marqsleal/Dev/Python/modelagem-machine-learning/venv/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/f1b6a01e957c465fb43b59140c94594d/artifacts
+end_time: 1732142146052
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: f1b6a01e957c465fb43b59140c94594d
+run_name: dashing-calf-861
+run_uuid: f1b6a01e957c465fb43b59140c94594d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732142114447
+status: 3
+tags: []
+user_id: marqsleal

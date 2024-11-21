@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/358795740332304726/e049abbd97824420aa7abf4ef16b993a/artifacts
+end_time: 1732143079495
+entry_point_name: ''
+experiment_id: '358795740332304726'
+lifecycle_stage: active
+run_id: e049abbd97824420aa7abf4ef16b993a
+run_name: welcoming-smelt-230
+run_uuid: e049abbd97824420aa7abf4ef16b993a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732143057569
+status: 3
+tags: []
+user_id: marqsleal

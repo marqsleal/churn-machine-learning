@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/812960480698927928/a059426dd6e54e5693d75a3e27932122/artifacts
+end_time: 1732138443676
+entry_point_name: ''
+experiment_id: '812960480698927928'
+lifecycle_stage: active
+run_id: a059426dd6e54e5693d75a3e27932122
+run_name: RandomSearchCV_GradientBoostingClassifier
+run_uuid: a059426dd6e54e5693d75a3e27932122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732138379706
+status: 4
+tags: []
+user_id: marqsleal

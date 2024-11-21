@@ -1,0 +1,47 @@
+artifact_path: best_estimator
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 2.17.1
+model_size_bytes: 4783080
+model_uuid: 65f9b3f3bd68492c92ed5b891aa76251
+run_id: 35e662e76b4f4d2da541ad234ef9d440
+signature:
+  inputs: '[{"type": "long", "name": "Gender", "required": true}, {"type": "long",
+    "name": "Age", "required": true}, {"type": "long", "name": "Married", "required":
+    true}, {"type": "long", "name": "Number of Dependents", "required": true}, {"type":
+    "long", "name": "Number of Referrals", "required": true}, {"type": "long", "name":
+    "Tenure in Months", "required": true}, {"type": "long", "name": "Offer", "required":
+    true}, {"type": "long", "name": "Phone Service", "required": true}, {"type": "double",
+    "name": "Avg Monthly Long Distance Charges", "required": true}, {"type": "long",
+    "name": "Multiple Lines", "required": true}, {"type": "long", "name": "Internet
+    Service", "required": true}, {"type": "long", "name": "Internet Type", "required":
+    true}, {"type": "double", "name": "Avg Monthly GB Download", "required": true},
+    {"type": "long", "name": "Online Security", "required": true}, {"type": "long",
+    "name": "Online Backup", "required": true}, {"type": "long", "name": "Device Protection
+    Plan", "required": true}, {"type": "long", "name": "Premium Tech Support", "required":
+    true}, {"type": "long", "name": "Streaming TV", "required": true}, {"type": "long",
+    "name": "Streaming Movies", "required": true}, {"type": "long", "name": "Streaming
+    Music", "required": true}, {"type": "long", "name": "Unlimited Data", "required":
+    true}, {"type": "long", "name": "Contract", "required": true}, {"type": "long",
+    "name": "Paperless Billing", "required": true}, {"type": "long", "name": "Payment
+    Method", "required": true}, {"type": "double", "name": "Monthly Charge", "required":
+    true}, {"type": "double", "name": "Total Charges", "required": true}, {"type":
+    "double", "name": "Total Refunds", "required": true}, {"type": "long", "name":
+    "Total Extra Data Charges", "required": true}, {"type": "double", "name": "Total
+    Long Distance Charges", "required": true}, {"type": "double", "name": "Total Revenue",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-11-20 22:35:41.299981'

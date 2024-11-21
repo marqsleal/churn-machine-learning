@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/6d6bb0c872624116b102cae74daa7fbe/artifacts
+end_time: 1732142146052
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: 6d6bb0c872624116b102cae74daa7fbe
+run_name: debonair-seal-673
+run_uuid: 6d6bb0c872624116b102cae74daa7fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732142114447
+status: 3
+tags: []
+user_id: marqsleal

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/358795740332304726
+creation_time: 1732140882479
+experiment_id: '358795740332304726'
+last_update_time: 1732140882479
+lifecycle_stage: active
+name: Modelos churn_filtered_dataset

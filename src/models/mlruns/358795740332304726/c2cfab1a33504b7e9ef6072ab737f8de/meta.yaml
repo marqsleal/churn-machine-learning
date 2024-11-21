@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/358795740332304726/c2cfab1a33504b7e9ef6072ab737f8de/artifacts
+end_time: 1732140926574
+entry_point_name: ''
+experiment_id: '358795740332304726'
+lifecycle_stage: active
+run_id: c2cfab1a33504b7e9ef6072ab737f8de
+run_name: nimble-sponge-83
+run_uuid: c2cfab1a33504b7e9ef6072ab737f8de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732140882776
+status: 3
+tags: []
+user_id: marqsleal

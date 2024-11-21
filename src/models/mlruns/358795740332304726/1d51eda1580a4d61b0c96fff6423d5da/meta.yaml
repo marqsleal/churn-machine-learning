@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/358795740332304726/1d51eda1580a4d61b0c96fff6423d5da/artifacts
+end_time: 1732143121644
+entry_point_name: ''
+experiment_id: '358795740332304726'
+lifecycle_stage: active
+run_id: 1d51eda1580a4d61b0c96fff6423d5da
+run_name: efficient-fly-212
+run_uuid: 1d51eda1580a4d61b0c96fff6423d5da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732143079871
+status: 3
+tags: []
+user_id: marqsleal

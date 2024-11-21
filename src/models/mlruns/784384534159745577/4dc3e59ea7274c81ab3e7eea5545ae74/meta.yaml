@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/4dc3e59ea7274c81ab3e7eea5545ae74/artifacts
+end_time: 1732142195543
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: 4dc3e59ea7274c81ab3e7eea5545ae74
+run_name: redolent-shark-204
+run_uuid: 4dc3e59ea7274c81ab3e7eea5545ae74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732142146573
+status: 3
+tags: []
+user_id: marqsleal

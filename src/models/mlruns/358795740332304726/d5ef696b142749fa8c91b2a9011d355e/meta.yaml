@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/358795740332304726/d5ef696b142749fa8c91b2a9011d355e/artifacts
+end_time: 1732143122004
+entry_point_name: ''
+experiment_id: '358795740332304726'
+lifecycle_stage: active
+run_id: d5ef696b142749fa8c91b2a9011d355e
+run_name: GridSearchCVRandomForestClassifier
+run_uuid: d5ef696b142749fa8c91b2a9011d355e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732143079871
+status: 3
+tags: []
+user_id: marqsleal

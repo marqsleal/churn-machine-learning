@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/358795740332304726/c6a686807d684275a6129e9d49175a21/artifacts
+end_time: 1732143121644
+entry_point_name: ''
+experiment_id: '358795740332304726'
+lifecycle_stage: active
+run_id: c6a686807d684275a6129e9d49175a21
+run_name: suave-croc-573
+run_uuid: c6a686807d684275a6129e9d49175a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732143079871
+status: 3
+tags: []
+user_id: marqsleal

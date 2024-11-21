@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/1ddb119a9e4c4db29508d3a08cf653ce/artifacts
+end_time: 1732142146052
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: 1ddb119a9e4c4db29508d3a08cf653ce
+run_name: clean-duck-503
+run_uuid: 1ddb119a9e4c4db29508d3a08cf653ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732142114447
+status: 3
+tags: []
+user_id: marqsleal

@@ -1,0 +1,1 @@
+{'n_estimators': [10, 50, 100], 'criterion': ['entropy', 'gini'], 'max_depth': [3, 5, 10, None]}

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/784384534159745577/ea85d0c5666c4bf482c326504aa28825/artifacts
+end_time: 1732139385643
+entry_point_name: ''
+experiment_id: '784384534159745577'
+lifecycle_stage: active
+run_id: ea85d0c5666c4bf482c326504aa28825
+run_name: intelligent-croc-695
+run_uuid: ea85d0c5666c4bf482c326504aa28825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732139347096
+status: 3
+tags: []
+user_id: marqsleal

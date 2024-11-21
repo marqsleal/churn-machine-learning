@@ -1,0 +1,24 @@
+digest: 906d0a1e
+name: dataset
+profile: '{"num_rows": 4930, "num_elements": 113390}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Age", "required": true}, {"type":
+  "long", "name": "Married", "required": true}, {"type": "long", "name": "Number of
+  Dependents", "required": true}, {"type": "long", "name": "Number of Referrals",
+  "required": true}, {"type": "long", "name": "Tenure in Months", "required": true},
+  {"type": "long", "name": "Offer", "required": true}, {"type": "long", "name": "Phone
+  Service", "required": true}, {"type": "double", "name": "Avg Monthly Long Distance
+  Charges", "required": true}, {"type": "long", "name": "Internet Service", "required":
+  true}, {"type": "long", "name": "Internet Type", "required": true}, {"type": "double",
+  "name": "Avg Monthly GB Download", "required": true}, {"type": "long", "name": "Online
+  Security", "required": true}, {"type": "long", "name": "Premium Tech Support", "required":
+  true}, {"type": "long", "name": "Unlimited Data", "required": true}, {"type": "long",
+  "name": "Contract", "required": true}, {"type": "long", "name": "Paperless Billing",
+  "required": true}, {"type": "long", "name": "Payment Method", "required": true},
+  {"type": "double", "name": "Monthly Charge", "required": true}, {"type": "double",
+  "name": "Total Charges", "required": true}, {"type": "double", "name": "Total Refunds",
+  "required": true}, {"type": "long", "name": "Total Extra Data Charges", "required":
+  true}, {"type": "double", "name": "Total Long Distance Charges", "required": true},
+  {"type": "double", "name": "Total Revenue", "required": true}]}'
+source: '{"tags": {"mlflow.user": "marqsleal", "mlflow.source.name": "/home/marqsleal/Dev/Python/modelagem-machine-learning/venv/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
