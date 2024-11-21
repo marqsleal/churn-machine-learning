@@ -1,6 +1,7 @@
 absl-py==2.1.0
 aiosignal==1.3.1
 alembic==1.13.3
+altair==5.4.1
 asttokens==2.4.1
 astunparse==1.6.3
 attrs==24.2.0
@@ -88,6 +89,7 @@ mlflow-skinny==2.17.1
 mpmath==1.3.0
 msgpack==1.1.0
 namex==0.0.8
+narwhals==1.14.1
 nbformat==5.10.4
 nest-asyncio==1.6.0
 networkx==3.4.2
@@ -135,10 +137,12 @@ pyarrow==17.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycaret==3.3.2
+pydeck==0.9.1
 Pygments==2.18.0
 pyod==2.0.2
 pyparsing==3.2.0
 python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
 pytz==2024.2
 PyYAML==6.0.2
 pyzmq==26.2.0
@@ -164,6 +168,7 @@ SQLAlchemy==2.0.36
 sqlparse==0.5.1
 stack-data==0.6.3
 statsmodels==0.14.4
+streamlit==1.40.1
 sympy==1.13.1
 tbats==1.1.3
 tenacity==9.0.0
@@ -172,6 +177,7 @@ tensorboard-data-server==0.7.2
 tensorflow==2.18.0
 termcolor==2.5.0
 threadpoolctl==3.5.0
+toml==0.10.2
 toolz==1.0.0
 torch==2.5.0
 torchvision==0.20.0
@@ -183,6 +189,7 @@ tsdownsample==0.1.3
 typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
+watchdog==6.0.0
 wcwidth==0.2.13
 Werkzeug==3.0.6
 wheel==0.44.0
